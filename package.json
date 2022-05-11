@@ -1,12 +1,13 @@
 {
   "name": "gifttemplate",
-	"displayName": "gifttemplate",
+	"displayName": "GIFT Template",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Hoffu/gifttemplate.git"
 	},
 	"description": "Templates of question for gift format",
 	"version": "0.0.1",
+	"publisher": "Hoffu",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
