@@ -6,7 +6,7 @@
     "url": "https://github.com/Hoffu/gifttemplate.git"
   },
   "description": "Templates of question for gift format",
-  "icon": "./images/gift-template-logo.png",
+  "icon": "images/gift-template-logo.png",
   "version": "0.0.1",
   "publisher": "Hoffu",
   "engines": {
